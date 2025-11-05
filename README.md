@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://github.com/Lin8x/Lin8x/blob/main/Images/danieljalalibanner.png?raw=true" width="50%" alt="Daniel Jalali Banner"/>
+  <img src="https://github.com/Lin8x/Lin8x/blob/main/Images/danieljalalibanner.png?raw=true" width="65%" alt="Daniel Jalali Banner"/>
 </p>
 <br>
 
