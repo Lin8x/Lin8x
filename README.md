@@ -31,7 +31,7 @@
 <br>
 
 <!-- Wave Divider -->
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
@@ -49,13 +49,9 @@ and with Unity on longer-running game and XR projects where tooling and performa
 I’m comfortable working in ambiguous problem spaces and prioritizing solutions that trade novelty 
 for reliability and clarity.
 
-</td>
-</tr>
-</table>
-
 <br>
 
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
@@ -96,7 +92,7 @@ for reliability and clarity.
 
 <br>
 
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
@@ -118,7 +114,7 @@ for reliability and clarity.
 
 <br>
 
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
@@ -131,7 +127,7 @@ for reliability and clarity.
 
 <br>
 
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
@@ -182,7 +178,7 @@ for reliability and clarity.
 
 <br>
 
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
+<img src="./Images/green.png" alt="🌈" width="100%"/>
 
 <br>
 
