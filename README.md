@@ -12,11 +12,6 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lin8x&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
-
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/danieljalali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -30,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="./Images/aqua-dancing.gif" height="200" alt="Aqua from Konosuba dancing"/>
+  <img src="./Images/aqua-dancing.gif" height="110" alt="Aqua from Konosuba dancing"/>
 </p>
 
 <br>
@@ -42,33 +37,17 @@
 
 ## <img src="./Images/minecraft.gif" height="40" alt="👋"/> About Me
 
-```python
-class DanielJalali:
-    def __init__(self):
-        self.name = "Daniel Jalali"
-        self.title = "Software & Game Developer"
-        self.education = {
-            "degree": ["B.A. Computer Science", "Certificate for Big Data, Ai, & Ethics"],
-            "location": "United States of America"
-        }
-        self.languages = ["Python", "C#", "Java", "JavaScript", "Kotlin", "SQL"]
-        self.interests = ["Automation", "Infrastructure", "Game Dev", "AR/VR", "AI"]
-        
-    def current_focus(self):
-        return [
-            "☁️ Infrastructure & cloud certifications",
-            "🐍 Python automation & data pipelines",
-            "🗃️ SQL & database architecture",
-            "🎮 Game development with Unity & Unreal",
-            "🤖 AI fundamentals for production"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
+I’ve been writing software for several years across personal, academic, and production projects.
 
-me = DanielJalali()
-me.say_hi()
-```
+Over time, my focus has shifted from building things quickly to **building things that are easier to maintain, 
+reason about, and operate**. I’ve spent a lot of time revisiting older code, refactoring it, and simplifying 
+systems once real constraints became clear.
+
+Today, I mainly work with Python and SQL on automation, data workflows, and backend systems, 
+and with Unity on longer-running game and XR projects where tooling and performance decisions matter.
+
+I’m comfortable working in ambiguous problem spaces and prioritizing solutions that trade novelty 
+for reliability and clarity.
 
 </td>
 </tr>
@@ -130,9 +109,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Microsoft-Word_2016_Certified-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
 </p>
 
-<p align="center">
-  <img src="./Images/miku.gif" height="40" alt="🎤"/>
-</p>
+</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_Developer_of_the_Month-University_Club-4285F4?style=for-the-badge" alt="Dev Award"/>
@@ -206,58 +183,6 @@ me.say_hi()
 <br>
 
 <img src="./Images/rainbow.png" alt="🌈" width="100%"/>
-
-<br>
-
-## <img src="./Images/cartoon-cat.gif" height="35" alt="📊"/> GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/lin8x">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lin8x&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lin8x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-  </a>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/lin8x">
-    <img src="https://github-trophies.vercel.app/?username=lin8x&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/lin8x">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lin8x&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e3b341&area=true&hide_border=true" alt="Activity Graph"/>
-  </a>
-</p>
-
-<br>
-
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
-
-<br>
-
-## <img src="./Images/aqua-sad.gif" height="30" alt="🐍"/> Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
-<!-- Dance Party -->
-<p align="center">
-  <img src="./Images/anime-swift-dance.gif" height="200" alt="Anime girl doing swift dance"/>
-</p>
-
-<br>
-
-<img src="./Images/rainbow.png" alt="🌈" width="100%"/>
-
-<br>
 
 <br>
 
