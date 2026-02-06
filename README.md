@@ -37,17 +37,18 @@
 
 ## <img src="./Images/minecraft.gif" height="40" alt="👋"/> About Me
 
-I’ve been writing software for several years across personal, academic, and production projects.
+**CS graduate** with internship experience in **data science**, **software engineering**, and **AR/VR development**.
 
-Over time, my focus has shifted from building things quickly to **building things that are easier to maintain, 
-reason about, and operate**. I’ve spent a lot of time revisiting older code, refactoring it, and simplifying 
-systems once real constraints became clear.
+I've worked across government, startup, and research environments; building prediction models, 
+automation tools, and cross-platform applications. I've presented technical work to senior leadership, 
+collaborated on teams of 5-20 people, and shipped projects under tight deadlines.
 
-Today, I mainly work with Python and SQL on automation, data workflows, and backend systems, 
-and with Unity on longer-running game and XR projects where tooling and performance decisions matter.
+**What I do best:**
+- 🐍 **Python** — Data pipelines, automation scripts, backend services
+- 🗃️ **SQL & Databases** — MySQL, data modeling, query optimization
+- ☁️ **Cloud & DevOps** — AWS, Azure, Git, CI/CD workflows
 
-I’m comfortable working in ambiguous problem spaces and prioritizing solutions that trade novelty 
-for reliability and clarity.
+I prioritize solutions that are **reliable, maintainable, and easy to reason about** over clever or complex ones.
 
 <br>
 
@@ -96,33 +97,14 @@ for reliability and clarity.
 
 <br>
 
-## <img src="./Images/tf2.gif" height="40" alt="🏆"/> Certifications & Awards </br>
+## <img src="./Images/tf2.gif" height="40" alt="🏆"/> Certifications </br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-DP--900_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/>
-  <img src="https://img.shields.io/badge/Unity_Certified_User-Programmer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified"/>
-  <img src="https://img.shields.io/badge/MTA-Windows_OS_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MTA"/>
-  <img src="https://img.shields.io/badge/Microsoft-Word_2016_Certified-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
+  <a href="https://learn.microsoft.com/en-us/users/danieljalali-3160/credentials/8ec56e591d97d935" target="_blank"><img src="https://img.shields.io/badge/Azure-DP--900_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/></a>
+  <a href="https://www.certiport.com/portal/pages/credentialverification.aspx" target="_blank"><img src="https://img.shields.io/badge/Unity_Certified_User-Programmer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified"/></a>
 </p>
-
-</br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Developer_of_the_Month-University_Club-4285F4?style=for-the-badge" alt="Dev Award"/>
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-Game_Jam-FA5C5C?style=for-the-badge" alt="GameJam"/>
-</p>
-
-<br>
-
-<img src="./Images/green.png" alt="🌈" width="100%"/>
-
-<br>
-
-### <img src="./Images/anime-dance.gif" height="35" alt="📂"/> Active Repositories 
-
-<p align="center">
-  <a href="https://github.com/Lin8x/LAPS"><img src="https://img.shields.io/badge/🔧_LAPS-In_Development-3FB950?style=for-the-badge" alt="LAPS"/></a>
-  <a href="https://github.com/Lin8x/Instergater"><img src="https://img.shields.io/badge/🔌_Instergater-JS_Extension-F7DF1E?style=for-the-badge" alt="Instergater"/></a>
+  <sub>🔐 Credential IDs: Azure DP-900: <code>8EC56E591D97D935</code> | Unity: <code>wvExk-H9mk</code></sub>
 </p>
 
 <br>
@@ -135,46 +117,71 @@ for reliability and clarity.
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🔬-Research_Lab-002F65?style=flat-square" alt="Lab"/><br>
-<b>Sr. Lab Assistant</b><br>
-<sub>Unity AR/VR Developer</sub><br>
-<sub>2022 - 2024</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🏛️-Government-0078D4?style=flat-square" alt="Gov"/><br>
+<td align="center" width="300">
+<img src="https://img.shields.io/badge/🏛️-Government_Agency-0078D4?style=flat-square" alt="Gov"/><br>
 <b>Data Science Intern</b><br>
-<sub>Python, Power BI, Azure</sub><br>
+<sub>Python, Power BI, Azure DevOps</sub><br>
 <sub>2024</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="300">
 <img src="https://img.shields.io/badge/💻-Tech_Startup-6366F1?style=flat-square" alt="Startup"/><br>
 <b>Software Engineering Intern</b><br>
 <sub>Python, MySQL, Automation</sub><br>
 <sub>2024</sub>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎮-Non_Profit_Org-FF6B6B?style=flat-square" alt="Club"/><br>
-<b>Product Manager</b><br>
-<sub>Led 20-person teams</sub><br>
+<td align="center" width="300">
+<img src="https://img.shields.io/badge/🔬-Research_Lab-002F65?style=flat-square" alt="Lab"/><br>
+<b>Sr. Lab Assistant</b><br>
+<sub>AR/VR, iOS, Android, HoloLens</sub><br>
 <sub>2022 - 2024</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📚-Student_Org-4285F4?style=flat-square" alt="Org"/><br>
-<b>Game Dev Tech Lead</b><br>
-<sub>Unity Workshops</sub><br>
-<sub>2021 - 2024</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎭-VR_Community-1DB954?style=flat-square" alt="VR"/><br>
-<b>Lead Developer</b><br>
-<sub>Built 12 Unity packages</sub><br>
-<sub>2023</sub>
 </td>
 </tr>
 </table>
+
+<br>
+
+<details>
+<summary><b>🏛️ Government Agency — Data Science Intern</b></summary>
+<br>
+
+- Built prediction models and data visualizations using **Python**, **Seaborn**, and **Matplotlib**
+- Created interactive **Power BI** dashboards for stakeholder communication
+- Managed version control and CI/CD with **Azure DevOps** and **Git**
+- Presented final project outcomes to senior leadership including the agency's CIO
+- Collaborated with a team of 5 interns on a successful data-driven project
+
+</details>
+
+<details>
+<summary><b>💻 Tech Startup — Software Engineering Intern</b></summary>
+<br>
+
+- Built internal automation tools in **Python**, **JavaScript**, and **C#** for a 10-person dev team
+- Managed **MySQL** database for efficient data storage and retrieval
+- Developed tooling that supported communities of **700+ users**
+
+</details>
+
+<details>
+<summary><b>🔬 Research Lab — Sr. Lab Assistant</b></summary>
+<br>
+
+- One of two developers trusted with building advanced **AR/VR applications** for architectural analysis
+- Deployed cross-platform apps for **iOS**, **Android**, and **HoloLens**
+- Researched and implemented AR features using **Niantic Lightship ARDK** (e.g., VPS-related workflows where applicable)
+- Collaborated across departments: management, architecture, modeling, and design
+
+</details>
+
+<details>
+<summary><b>🎮 Non-Profit Org — Product Manager</b></summary>
+<br>
+
+- Led a **20-person team** to ship a product within a 2-month deadline
+- Coordinated 3 departments using **Trello** for task management and sprint planning
+- Managed dev toolchain: **Unity**, **GitHub**, **Blender**, **Visual Studio**
+
+</details>
 
 <br>
 
@@ -185,14 +192,6 @@ for reliability and clarity.
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <b>✨ Let's create something extraordinary together! ✨</b>
-</p>
-
-<p align="center">
-  <i>"The only way to do great work is to love what you do."</i>
 </p>
 
 <p align="center">
