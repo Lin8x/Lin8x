@@ -47,10 +47,9 @@ class DanielJalali:
     def __init__(self):
         self.name = "Daniel Jalali"
         self.title = "Software & Game Developer"
-        self.location = "Miami, Florida"
         self.education = {
-            "degree": ["B.A. Computer Science", "B.A. Mathematics"],
-            "university": "Florida International University"
+            "degree": ["B.A. Computer Science", "Certificate for Big Data, Ai, & Ethics"],
+            "location": "United States of America"
         }
         self.languages = ["Python", "C#", "Java", "JavaScript", "Kotlin", "SQL"]
         self.interests = ["Automation", "Infrastructure", "Game Dev", "AR/VR", "AI"]
@@ -91,7 +90,7 @@ me.say_hi()
 </td>
 </tr>
 <tr>
-<td align="center"><b>🎮 Game Dev</b><br><img src="./Images/miku.gif" height="40" alt="🎤"/></td>
+<td align="center"><b>🎮 Game Dev</b><br></td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" alt="Game Dev"/>
 </td>
@@ -122,15 +121,20 @@ me.say_hi()
 
 <br>
 
-## <img src="./Images/tf2.gif" height="40" alt="🏆"/> Certifications & Awards
+## <img src="./Images/tf2.gif" height="40" alt="🏆"/> Certifications & Awards </br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-DP--900_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/>
   <img src="https://img.shields.io/badge/Unity_Certified_User-Programmer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified"/>
   <img src="https://img.shields.io/badge/MTA-Windows_OS_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MTA"/>
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Word_2016_Certified-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Word"/>
+</p>
+
+<p align="center">
+  <img src="./Images/miku.gif" height="40" alt="🎤"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/🏆_Developer_of_the_Month-University_Club-4285F4?style=for-the-badge" alt="Dev Award"/>
   <img src="https://img.shields.io/badge/🥈_2nd_Place-Game_Jam-FA5C5C?style=for-the-badge" alt="GameJam"/>
 </p>
