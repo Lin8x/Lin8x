@@ -100,6 +100,7 @@ I prioritize solutions that are **reliable, maintainable, and easy to reason abo
 ## <img src="./Images/tf2.gif" height="40" alt="🏆"/> Certifications </br>
 
 <p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/c1e3afb5-38fb-4475-a0cf-b4dc49c0f761" target="_blank"><img src="https://img.shields.io/badge/AWS-AWS%20Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/></a>
   <a href="https://learn.microsoft.com/en-us/users/danieljalali-3160/credentials/8ec56e591d97d935" target="_blank"><img src="https://img.shields.io/badge/Azure-DP--900_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900"/></a>
   <a href="https://www.certiport.com/portal/pages/credentialverification.aspx" target="_blank"><img src="https://img.shields.io/badge/Unity_Certified_User-Programmer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified"/></a>
 </p>
