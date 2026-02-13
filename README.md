@@ -105,7 +105,7 @@ I prioritize solutions that are **reliable, maintainable, and easy to reason abo
   <a href="https://www.certiport.com/portal/pages/credentialverification.aspx" target="_blank"><img src="https://img.shields.io/badge/Unity_Certified_User-Programmer-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified"/></a>
 </p>
 <p align="center">
-  <sub>🔐 Credential IDs: Azure DP-900: <code>8EC56E591D97D935</code> | Unity: <code>wvExk-H9mk</code></sub>
+  <sub>🔐 Credential IDs: AWS AIF-CO1: c1e3afb5-38fb-4475-a0cf-b4dc49c0f761 | Azure DP-900: <code>8EC56E591D97D935</code> | Unity: <code>wvExk-H9mk</code></sub>
 </p>
 
 <br>
