@@ -2,7 +2,9 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="./Images/danieljalalibanner.png" width="70%" alt="Banner for Daniel Jalali"/>
+  <a href="https://danieljalali.com"> 
+    <img src="./Images/danieljalalibanner.png" width="70%" alt="Banner for Daniel Jalali"/>
+  </a>
 </p>
 
 <!-- Animated Typing -->
