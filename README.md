@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <a href="https://danieljalali.com"> 
+  <a href="https://danieljalali.com/cloud"> 
     <img src="./Images/danieljalalibanner.png" width="70%" alt="Banner for Daniel Jalali"/>
   </a>
 </p>
