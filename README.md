@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <p align="center">
   <a href="https://danieljalali.com/it"> 
-    <img src="./Images/danieljalalibanner.png" width="70%" alt="Banner for Daniel Jalali"/>
+    <img src="./Images/DnaielJalali_ITSpecialist_Logo.png" width="70%" alt="Banner for Daniel Jalali"/>
   </a>
 </p>
 
